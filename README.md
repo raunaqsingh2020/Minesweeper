@@ -1,3 +1,5 @@
+![Alt text](/minesweeperimg.png)
+
 
 ### External Resources
 
