@@ -1,13 +1,10 @@
 
 
 
-========================
-=: External Resources :=
-========================
+==================
+External Resources
+==================
 
-- Cite any external resources (libraries, images, tutorials, etc.) that you may
-  have used while implementing your game.
-  
   Images:
   http://pixelartmaker.com/art/07b1e1ff07180bb
   
