@@ -21,8 +21,3 @@
   https://hotemoji.com/triangular-flag-on-post-emoji.html
   
   https://www.freeiconspng.com/img/32264
-  
-  
-  
-  
-  
